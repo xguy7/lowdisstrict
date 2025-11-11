@@ -44,18 +44,18 @@ body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
   font-size: 30px !important;
   font-weight: 300;
-  color: #5a057c;
+  color: #ffffff;
 }
 .h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 22px !important;
-  color: #5a057c;
+  color: #ffffff;
 }
 /* General */
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
-.text-success { color: #5a057c !important;}
+.text-success { color: #ffffff !important;}
 .text-light { color: #cfd6e1 !important;}
 .bg-dark { background-color: #000 !important;}
 .bg-light { background-color: #000 !important;}
