@@ -56,7 +56,11 @@ body, ul, li, p, a, label, input, div {
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
+<<<<<<< HEAD
+.text-success { color: #700999 !important;}
+=======
 .text-success { color: #5a057c !important;}
+>>>>>>> 1153c857d5d348aec18a32e8b7da9c0f35667078
 .text-light { color: #cfd6e1 !important;}
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
