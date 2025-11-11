@@ -65,7 +65,7 @@ body, ul, li, p, a, label, input, div {
 .pagination .page-link:hover {color: #000;}
 .pagination .page-link:hover, .pagination .page-link.active {
   background-color: #69bb7e;
-  color: #fff;
+  color: #000;
 }
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
