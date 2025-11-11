@@ -39,28 +39,28 @@ body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
   font-size: 48px !important;
   font-weight: 200 !important;
-  color: #5a057c;
+   color:rgb(214, 15, 171);
 }
 .h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px !important;
   font-weight: 300;
-  color: #5a057c;
+  color:rgb(214, 15, 171);
 }
 .h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 22px !important;
-  color: #5a057c;
+  color: #ffffff;
 }
 /* General */
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
-.text-success { color: #5a057c !important;}
+.text-success { color: #59ab6e !important;}
 .text-light { color: #cfd6e1 !important;}
-.bg-dark { background-color: #000 !important;}
-.bg-light { background-color: #000 !important;}
-.bg-black { background-color: #59ab6e !important;}
+.bg-dark { background-color: #212934 !important;}
+.bg-light { background-color: #e9eef5 !important;}
+.bg-black { background-color: #1d242d !important;}
 .bg-success { background-color: #59ab6e !important;}
 .btn-success {
   background-color: #59ab6e !important;
@@ -69,7 +69,7 @@ body, ul, li, p, a, label, input, div {
 .pagination .page-link:hover {color: #000;}
 .pagination .page-link:hover, .pagination .page-link.active {
   background-color: #69bb7e;
-  color: #000;
+  color: #fff;
 }
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
@@ -79,7 +79,7 @@ body, ul, li, p, a, label, input, div {
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 
 /* Hero Carousel */
-#template-mo-zay-hero-carousel { background: #000 !important;}
+#template-mo-zay-hero-carousel { background: #efefef !important;}
 /* Accordion */
 .templatemo-accordion a { color: #000;}
 .templatemo-accordion a:hover { color: #333d4a;}
@@ -141,7 +141,7 @@ body, ul, li, p, a, label, input, div {
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
 .form-control { border: 1px solid #e8e8e8;}
 /* Footer */
-#tempaltemo_footer a { color: #000;}
+#tempaltemo_footer a { color: #dcdde1;}
 #tempaltemo_footer a:hover { color: #68bb7d;}
 #tempaltemo_footer ul.footer-link-list li { padding-top: 10px;}
 #tempaltemo_footer ul.footer-icons li {
@@ -150,7 +150,7 @@ body, ul, li, p, a, label, input, div {
   line-height: 2.6em;
 }
 #tempaltemo_footer ul.footer-icons li:hover {
-  background-color: #000;
+  background-color: #cfd6e1;
   transition: .5s;
 }
 #tempaltemo_footer ul.footer-icons li:hover i {
