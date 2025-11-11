@@ -33,6 +33,7 @@ body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
   font-size: 18px !important;
   font-weight: 300 !important;
+  color: #5a057c;
 }
 .h1 {
   font-family: 'Roboto', sans-serif;
@@ -55,12 +56,16 @@ body, ul, li, p, a, label, input, div {
 .logo { font-weight: 500 !important;}
 .text-warning {  color: #ede861 !important;}
 .text-muted { color: #bcbcbc !important;}
+<<<<<<< HEAD
 .text-success { color: #700999 !important;}
+=======
+.text-success { color: #5a057c !important;}
+>>>>>>> 1153c857d5d348aec18a32e8b7da9c0f35667078
 .text-light { color: #cfd6e1 !important;}
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
 .bg-black { background-color: #1d242d !important;}
-.bg-success { background-color: #59ab6e !important;}
+.bg-success { background-color: #5a057c !important;}
 .btn-success {
   background-color: #59ab6e !important;
   border-color: #56ae6c !important;
@@ -78,7 +83,7 @@ body, ul, li, p, a, label, input, div {
 #templatemo_main_nav .navbar .nav-icon { margin-right: 20px;}
 
 /* Hero Carousel */
-#template-mo-zay-hero-carousel { background: #efefef !important;}
+#template-mo-zay-hero-carousel { background: #000 !important;}
 /* Accordion */
 .templatemo-accordion a { color: #000;}
 .templatemo-accordion a:hover { color: #333d4a;}
@@ -124,7 +129,7 @@ body, ul, li, p, a, label, input, div {
 }
 #template-mo-zay-hero-carousel .carousel-control-next i,
 #template-mo-zay-hero-carousel .carousel-control-prev i {
-  color: #59ab6e !important;
+  color: #5a057c !important;
   font-size: 2.8em !important;
 }
 /* Carousel Brand */
