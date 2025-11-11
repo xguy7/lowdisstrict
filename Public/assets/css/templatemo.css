@@ -38,15 +38,18 @@ body, ul, li, p, a, label, input, div {
   font-family: 'Roboto', sans-serif;
   font-size: 48px !important;
   font-weight: 200 !important;
+  color: #5a057c;
 }
 .h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 30px !important;
   font-weight: 300;
+  color: #5a057c;
 }
 .h3 {
   font-family: 'Roboto', sans-serif;
   font-size: 22px !important;
+  color: #5a057c;
 }
 /* General */
 .logo { font-weight: 500 !important;}
